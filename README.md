@@ -32,3 +32,5 @@ experiment on python3.5 and tensorflow-gpu1.4
   1.将欧式距离换为标准化欧氏距离
   2.dropout设为0.8-0.9会不会更容易收敛
   
+train.png是训练集的acc和loss曲线
+valid.png是验证集的acc和loss曲线
